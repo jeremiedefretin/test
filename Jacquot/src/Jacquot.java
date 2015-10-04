@@ -5,5 +5,8 @@ public class Jacquot {
 		// TODO Auto-generated method stub
 		System.out.println("kikoo");
 	}
+	public void neFaitRien(){
+		
+	}
 
 }
