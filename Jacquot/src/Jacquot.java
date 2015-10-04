@@ -8,7 +8,6 @@ public class Jacquot {
 		System.out.println("kikoo");
 	}
 	public void neFaitRien(){
-		a =5;
 	}
 
 }
